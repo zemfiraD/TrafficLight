@@ -15,5 +15,9 @@ class ViewController: UIViewController {
   }
 
 
+  @IBOutlet var tafficLightOutlet: UIStackView!
+  
+  @IBAction func startButton(_ sender: Any) {
+  }
 }
 
